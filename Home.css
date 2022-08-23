@@ -1,0 +1,184 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 812px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 890px;
+  margin: 140px auto 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 612px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 27px 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "PT Sans Caption";
+  font-size: 1.875rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 141px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1rem;
+  margin: 32px 13px 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 25px;
+  min-height: 16px;
+  width: 136px;
+  min-width: 100px;
+  margin: 45px auto 0;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 100%;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 612px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 55px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  font-size: 3rem;
+  margin: 141px auto 0 5px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.25rem;
+  margin: 18px auto 0 5px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  margin: 35px auto 0 98px;
+  padding: 18px 46px 20px 45px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 213px;
+  height: 213px;
+  background-image: url("images/WIN_20220823_16_33_01_Pro.jpg");
+  background-position: 50% 50%;
+  margin: -707px auto 494px 189px;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 300px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 44px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 400px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 360px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 534px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 0;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 127px;
+  }
+}
